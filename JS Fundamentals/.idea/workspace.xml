@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7107aab7-6d8d-4f21-8be7-083eebf16eb7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exam/01. HTML Grade/HTML Grade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam/02. Table Filter/Table Filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam/03. HTML Strict Mode/HTML strict mode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam/04. E-Vinetka-bg/Vinetks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/City Markets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Count Words in a Text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Count Words with Maps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/JSON to HTML Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Lowest Prices in Cities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Population in Towns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Score to HTML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Sum by Town.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects and JSON - Lab/Towns to JSON.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringand RegEx - Exercise/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings and RegEx - Lab/05. JS-Fundamentals-Strings-and-RegEx-Lab-Resources.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="7107aab7-6d8d-4f21-8be7-083eebf16eb7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -143,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1075" />
     <option name="height" value="1040" />
@@ -156,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,59 +146,16 @@
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="01. HTML Grade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Table Filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="03. HTML Strict Mode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="04. E-Vinetka-bg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects and JSON - Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Stringand RegEx - Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings and RegEx - Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -305,11 +244,12 @@
       <workItem from="1549782462415" duration="21458000" />
       <workItem from="1549814605249" duration="1392000" />
       <workItem from="1550275537465" duration="598000" />
+      <workItem from="1550495631592" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205956000" />
+    <option name="totallyTimeSpent" value="205981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,10 +261,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49603623" visible="true" weight="0.17382683" />
-      <window_info id="Structure" order="1" weight="0.24960339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49603623" visible="true" weight="0.09451421" />
+      <window_info id="Structure" order="1" weight="0.24917382" />
       <window_info id="Favorites" order="2" sideWeight="0.50396377" side_tool="true" weight="0.24960339" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />

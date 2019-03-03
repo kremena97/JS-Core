@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/01. Sort Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/03.FunctionalSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/01.Aggregates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/02.CurrencyFormat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/03.CommandProcessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/04.MaxElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.Tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/01. Sub Sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Fundamentals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JS Fundamentals/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JS_Core$Test.dat" NAME="Test Coverage Results" MODIFIED="1551128465325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="365" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/01. Sort Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/03.FunctionalSum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/01. Sort Array.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/Aggregates.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/01. Aggregates.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/02. Currency Format.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/03. Command Processor.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/01. Sub Sum.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02. Even Or Odd.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/evenOrOdd.Tests.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/04.MaxElement.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/03.FunctionalSum.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1075" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced Functions - Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced Functions - Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.07.MonkeyPatcher.js">
+    <configuration name="02. Argument Info.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="04.PersonalBMI.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="05.VectorMath.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="06.BreakfastRobot.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="07.MonkeyPatcher.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Test" />
+      <item itemvalue="Node.js.02. Argument Info.js" />
+      <item itemvalue="Node.js.04.PersonalBMI.js" />
+      <item itemvalue="Node.js.05.VectorMath.js" />
+      <item itemvalue="Node.js.06.BreakfastRobot.js" />
+      <item itemvalue="Node.js.07.MonkeyPatcher.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.07.MonkeyPatcher.js" />
+        <item itemvalue="Node.js.06.BreakfastRobot.js" />
+        <item itemvalue="Node.js.05.VectorMath.js" />
+        <item itemvalue="Node.js.04.PersonalBMI.js" />
+        <item itemvalue="Node.js.02. Argument Info.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="" />
+      <created>1550495656772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550495656772</updated>
+      <workItem from="1550495658062" duration="1793000" />
+      <workItem from="1550594729413" duration="3383000" />
+      <workItem from="1550682263594" duration="192000" />
+      <workItem from="1550683792779" duration="593000" />
+      <workItem from="1551094999316" duration="4013000" />
+      <workItem from="1551124923360" duration="5628000" />
+      <workItem from="1551179487373" duration="3705000" />
+      <workItem from="1551287374109" duration="4634000" />
+      <workItem from="1551432684294" duration="875000" />
+      <workItem from="1551454520209" duration="592000" />
+      <workItem from="1551535713678" duration="14944000" />
+      <workItem from="1551615644474" duration="12368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2019.02.25 at 23h 08m 42s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 11m 02s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 13m 36s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 21m 49s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 28m 59s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 31m 44s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 31m 59s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 33m 08s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 33m 22s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2019.02.25 at 23h 34m 02s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13284865" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48843357" visible="true" weight="0.1756374" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.709848" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49875" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5115664" side_tool="true" visible="true" weight="0.1756374" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.54625" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/01.Aggregates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/02.CurrencyFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/03.CommandProcessor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/01. Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/04.MaxElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Lab/05.NextArticle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/01. Sort Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/03.FunctionalSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
