@@ -49,10 +49,9 @@ var forumPost = {
     downvotes: 5
 };
 
-// Under border case
 var answer = solution.call(forumPost, 'score');
 console.log(answer);
-// Past border case
+
 solution.call(forumPost, 'downvote');
 answer = solution.call(forumPost, 'score');
 console.log(answer);
