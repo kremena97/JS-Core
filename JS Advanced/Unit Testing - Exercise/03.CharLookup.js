@@ -9,4 +9,5 @@ function lookupChar(string, index) {
     return string.charAt(index);
 }
 
+console.log(lookupChar(13, 0));
 module.exports = lookupChar;
