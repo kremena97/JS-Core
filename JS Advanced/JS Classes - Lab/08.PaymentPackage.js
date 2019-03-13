@@ -68,8 +68,14 @@ class PaymentPackage {
         return output.join('\n');
     }
 }
-let pp = new PaymentPackage('HR Services',1500);
-console.log(pp);
+const packages = [
+    new PaymentPackage('HR Services', 1500),
+    new PaymentPackage('Consultation', 800),
+    new PaymentPackage('Partnership Fee', 7000),
+];
+packages[0].active = false;
+console.log(typeof PaymentPackage.prototype.toString);
+
 
 
 module.exports = PaymentPackage;

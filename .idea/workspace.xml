@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/01.RectangleClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/02.PersonClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/03.GetPersons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/04.Circle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/05.PointDistance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/06.Cards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.Tests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/~$it-Testing-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.Tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="680">
+              <caret line="90" column="11" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="90" selection-end-column="11" />
               <folding>
                 <element signature="e#666#682#0" />
                 <element signature="e#1438#1454#0" />
@@ -56,20 +46,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="4" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="242">
+              <caret line="100" column="7" lean-forward="true" selection-end-line="157" selection-end-column="3" />
+              <folding>
+                <element signature="e#2409#2945#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +90,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -232,23 +225,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.08.PaymentPackage.js">
+  <component name="RunManager" selected="Mocha.Payment Package.accessor value.set value with non number value">
     <configuration name="08.PaymentPackage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
-      <method v="2" />
-    </configuration>
-    <configuration name="Payment Package.constructor.without parameters" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+    <configuration name="Payment Package.accessor VAT.set VAT with non number value" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
@@ -260,12 +241,46 @@
       <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
       <test-names>
         <name value="Payment Package" />
-        <name value="constructor" />
-        <name value="without parameters" />
+        <name value="accessor VAT" />
+        <name value="set VAT with non number value" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Payment Package.instantiation" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+    <configuration name="Payment Package.accessor name.set name with non string value" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
+      <test-names>
+        <name value="Payment Package" />
+        <name value="accessor name" />
+        <name value="set name with non string value" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Payment Package.accessor value.set value with non number value" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
+      <test-names>
+        <name value="Payment Package" />
+        <name value="accessor value" />
+        <name value="set value with non number value" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Payment Package.prototype" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
@@ -277,24 +292,7 @@
       <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
       <test-names>
         <name value="Payment Package" />
-        <name value="instantiation" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="Payment Package.instantiation.without parameters" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js</test-file>
-      <test-names>
-        <name value="Payment Package" />
-        <name value="instantiation" />
-        <name value="without parameters" />
+        <name value="prototype" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -314,18 +312,18 @@
     <list>
       <item itemvalue="Mocha.Test" />
       <item itemvalue="Node.js.08.PaymentPackage.js" />
-      <item itemvalue="Mocha.Payment Package.instantiation" />
-      <item itemvalue="Mocha.Payment Package.instantiation.without parameters" />
-      <item itemvalue="Mocha.JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" />
-      <item itemvalue="Mocha.Payment Package.constructor.without parameters" />
+      <item itemvalue="Mocha.Payment Package.prototype" />
+      <item itemvalue="Mocha.Payment Package.accessor VAT.set VAT with non number value" />
+      <item itemvalue="Mocha.Payment Package.accessor name.set name with non string value" />
+      <item itemvalue="Mocha.Payment Package.accessor value.set value with non number value" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.Payment Package.accessor value.set value with non number value" />
+        <item itemvalue="Mocha.Payment Package.accessor name.set name with non string value" />
+        <item itemvalue="Mocha.Payment Package.accessor VAT.set VAT with non number value" />
+        <item itemvalue="Mocha.Payment Package.prototype" />
         <item itemvalue="Node.js.08.PaymentPackage.js" />
-        <item itemvalue="Mocha.JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" />
-        <item itemvalue="Mocha.Payment Package.constructor.without parameters" />
-        <item itemvalue="Mocha.Payment Package.instantiation.without parameters" />
-        <item itemvalue="Mocha.Payment Package.instantiation" />
       </list>
     </recent_temporary>
   </component>
@@ -354,44 +352,44 @@
       <workItem from="1551703352587" duration="15982000" />
       <workItem from="1552296348737" duration="17833000" />
       <workItem from="1552408219554" duration="2086000" />
-      <workItem from="1552471107794" duration="13647000" />
+      <workItem from="1552471107794" duration="16707000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Payment_Package_instantiation_without_parameters - 2019.03.13 at 22h 34m 43s.xml">
-      <configuration name="Payment Package.instantiation.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_accessor_active_set_VAT_with_negative_number - 2019.03.13 at 23h 23m 33s.xml">
+      <configuration name="Payment Package.accessor active.set VAT with negative number" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="JS_Advanced_JS_Classes_-_Lab_08_PaymentPackage_Tests_js - 2019.03.13 at 22h 35m 02s.xml">
-      <configuration name="JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_accessor_active - 2019.03.13 at 23h 23m 37s.xml">
+      <configuration name="Payment Package.accessor active" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="JS_Advanced_JS_Classes_-_Lab_08_PaymentPackage_Tests_js - 2019.03.13 at 22h 35m 19s.xml">
-      <configuration name="JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_toString - 2019.03.13 at 23h 29m 43s.xml">
+      <configuration name="Payment Package.toString" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 41m 37s.xml">
+    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 23h 31m 58s.xml">
       <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 46m 39s.xml">
-      <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_constructor_with_non_string_parameter_for_name - 2019.03.13 at 23h 35m 46s.xml">
+      <configuration name="Payment Package.constructor.with non string parameter for name" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 47m 24s.xml">
-      <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_constructor_with_non_number_parameter_for_value - 2019.03.13 at 23h 36m 20s.xml">
+      <configuration name="Payment Package.constructor.with non number parameter for value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 47m 46s.xml">
-      <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_prototype - 2019.03.13 at 23h 40m 31s.xml">
+      <configuration name="Payment Package.prototype" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 48m 34s.xml">
-      <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_accessor_VAT_set_VAT_with_non_number_value - 2019.03.13 at 23h 43m 19s.xml">
+      <configuration name="Payment Package.accessor VAT.set VAT with non number value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Payment_Package_constructor_without_parameters - 2019.03.13 at 22h 49m 31s.xml">
-      <configuration name="Payment Package.constructor.without parameters" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_accessor_name_set_name_with_non_string_value - 2019.03.13 at 23h 44m 49s.xml">
+      <configuration name="Payment Package.accessor name.set name with non string value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="JS_Advanced_JS_Classes_-_Lab_08_PaymentPackage_Tests_js - 2019.03.13 at 22h 53m 37s.xml">
-      <configuration name="JS Advanced\JS Classes - Lab\08.PaymentPackage.Tests.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Payment_Package_accessor_value_set_value_with_non_number_value - 2019.03.13 at 23h 45m 14s.xml">
+      <configuration name="Payment Package.accessor value.set value with non number value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108483000" />
+    <option name="totallyTimeSpent" value="111543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -676,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/01.RequestValidator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -711,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -727,15 +711,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="197">
+          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/01.RequestValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.Tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="680">
+          <caret line="90" column="11" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="90" selection-end-column="11" />
           <folding>
             <element signature="e#666#682#0" />
             <element signature="e#1438#1454#0" />
@@ -747,8 +745,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="4" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="242">
+          <caret line="100" column="7" lean-forward="true" selection-end-line="157" selection-end-column="3" />
+          <folding>
+            <element signature="e#2409#2945#0" />
+          </folding>
         </state>
       </provider>
     </entry>
