@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/01.DataClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/02.Tickets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/03.Unity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/04.LengthLimit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/05.ExtensibleClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/01.ArrayExtension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/02.ConstructionCrew.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/05.StringExtension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/06.SortedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,42 +33,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStudio.js">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1734">
-              <caret line="102" column="96" selection-start-line="102" selection-start-column="96" selection-end-line="102" selection-end-column="96" />
+            <state relative-caret-position="153">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="1275">
+              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="65" column="16" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js">
+        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/template.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -107,17 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/02. Argument Info.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/04.PersonalBMI.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/05.VectorMath.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/06.BreakfastRobot.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/01. Sub Sum.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Advanced Functions - Exercise/07.MonkeyPatcher.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/02.PlayingCards.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/03.DeckofCards.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/04.SumofNumbers.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/04.SumofNumbers.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/05.CheckforSymmetry.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/05.CheckforSymmetry.Tests.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.Tests.js" />
@@ -158,12 +177,23 @@
         <option value="$PROJECT_DIR$/JS Advanced/Exam/01/scripts/solution.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js" />
+        <option value="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html" />
+        <option value="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js" />
+        <option value="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/text.html" />
+        <option value="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.html" />
+        <option value="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html" />
+        <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1095" />
+    <option name="width" value="1110" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -181,73 +211,20 @@
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="REST and HTTP Requests - Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Classes - Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Classes - Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing - Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing - Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="REST and HTTP Requests - Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Phonebook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TechModule/Software Technologies/IMDB exam prep/Skeletons/JavaScript Skeleton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -404,6 +381,10 @@
       <workItem from="1552806491102" duration="24180000" />
       <workItem from="1553283237256" duration="597000" />
       <workItem from="1553375048374" duration="47000" />
+      <workItem from="1553541075629" duration="4078000" />
+      <workItem from="1553606451777" duration="1194000" />
+      <workItem from="1553776950075" duration="7705000" />
+      <workItem from="1553860116252" duration="6330000" />
     </task>
     <servers />
   </component>
@@ -440,12 +421,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166719000" />
+    <option name="totallyTimeSpent" value="186026000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="876" height="832" extended-state="0" />
+    <frame x="-8" y="0" width="888" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2943981" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21621622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -489,90 +471,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/04.SumofNumbers.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/07.AddSubtract.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/05.CheckforSymmetry.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/04.SumofNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/05.CheckforSymmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/07.AddSubtract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/node_modules/yargs/yargs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3086">
-          <caret line="1147" selection-start-line="1147" selection-end-line="1147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/01.RectangleClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/02.PersonClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/05.PointDistance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -791,6 +689,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/template.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -798,6 +717,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1904">
           <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -815,10 +775,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js">
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="493">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
