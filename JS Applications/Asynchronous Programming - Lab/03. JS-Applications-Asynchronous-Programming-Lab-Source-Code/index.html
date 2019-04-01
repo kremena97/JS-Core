@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>All posts</h1>
+    <button id="load-posts-btn">Load posts</button>
+    <select id="posts"></select>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+    <script>
+        (async function() {
+            function resolveAfter2Seconds() {  
+                return new Promise(resolve => {    
+                    setTimeout(() => {      
+                        resolve('resolved');    
+                    }, 2000);  
+                });
+            }
+            
+            try {
+                const data = await resolveAfter2Seconds();
+            } catch (error) {
+                console.error(error.message);
+            }
+        }());
+    </script>
+    <script>
+        (async function() {
+            const kinveyAppId = "kid_S1htVfcmm";
+            const serviceUrl = "https://baas.kinvey.com/appdata/" + 
+                kinveyAppId + '/posts';
+            const kinveyUsername = "peter";
+            const kinveyPassword = "p";
+            const base64auth = btoa(kinveyUsername + ":" +
+                kinveyPassword);
+            const authHeaders = { "Authorization": "Basic " + base64auth };
+    
+            function loadPosts() {
+                return fetch(serviceUrl, {
+                    method: 'GET',
+                    headers: new Headers(authHeaders),
+                });
+            }
+
+            try {
+                const response = await loadPosts();
+                const posts = await response.text();
+                
+                console.log(posts);
+            } catch (error) {
+                console.error('Something went wrong' + error.message);
+            }
+        }());
+    </script>
+</body>
+</html>

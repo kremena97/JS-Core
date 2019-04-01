@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/commits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asunchronous-Programming-Additional-Resources.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming.pptx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,91 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="65" column="16" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js">
+        <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/04.Circle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/01/scripts/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="145" selection-start-line="35" selection-start-column="145" selection-end-line="35" selection-end-column="145" />
+            <state relative-caret-position="403">
+              <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -137,13 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/05.CheckforSymmetry.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/06.RGBtoHex.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/07.Add/Subtract.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Lab/07.AddSubtract.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/01.RequestValidator.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.Tests.js" />
@@ -187,11 +99,18 @@
         <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.html" />
         <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js" />
         <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/commits.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/blog.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/solution.js" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js" />
         <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1110" />
     <option name="height" value="1040" />
@@ -201,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,20 +137,18 @@
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
               <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="REST and HTTP Requests - Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Asynchronous Programming - Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
               <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
               <item name="REST and HTTP Requests - Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="04. Phonebook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,7 +302,9 @@
       <workItem from="1553541075629" duration="4078000" />
       <workItem from="1553606451777" duration="1194000" />
       <workItem from="1553776950075" duration="7705000" />
-      <workItem from="1553860116252" duration="6330000" />
+      <workItem from="1553860116252" duration="11238000" />
+      <workItem from="1553880955658" duration="4138000" />
+      <workItem from="1554118363067" duration="9310000" />
     </task>
     <servers />
   </component>
@@ -421,13 +341,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186026000" />
+    <option name="totallyTimeSpent" value="204382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="888" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21621622" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12161269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -471,82 +390,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/05.PointDistance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/06.Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/05.StringExtension.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/06.SortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/02.ConstructionCrew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/01.ArrayExtension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/01.RequestValidator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Exercise/01. Increment-Counter/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Exercise/01. Increment-Counter/incrementCounter.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -720,51 +563,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/04.Circle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -782,24 +594,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/ajax-load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/XHR/xhr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/commits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="63" column="8" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/first-promise-explanation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/posts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/github-commit.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
+        <state relative-caret-position="641">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/solution.js">
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="765">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/01. Bus Stop/buses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="493">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/02. Bus Schedule/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
         </state>
       </provider>
     </entry>
