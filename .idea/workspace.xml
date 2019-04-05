@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/commits.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.Tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Exam Testing/03. Organization/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/scripts/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Auto Service/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Matrix Summer/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Morse Translator/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Fundamentals/Exam Testing/VAT Calculator/solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asunchronous-Programming-Additional-Resources.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming-Lab-Source-Code.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Lab/03. JS-Applications-Asynchronous-Programming.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,11 +31,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+            <state relative-caret-position="282">
+              <caret line="137" column="42" lean-forward="true" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,21 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/03.CharLookup.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/01.RectangleClass.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/02.PersonClass.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/03.GetPersons.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/04.Circle.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/05.PointDistance.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/06.Cards.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/01.DataClass.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/02.Tickets.js" />
         <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/03.Unity.js" />
         <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/04.LengthLimit.js" />
         <option value="$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/05.ExtensibleClass.js" />
@@ -84,7 +82,6 @@
         <option value="$PROJECT_DIR$/JS Advanced/jQuery - Lab/03. Link-Buttons/link-buttons.js" />
         <option value="$PROJECT_DIR$/JS Advanced/jQuery - Lab/04. Selectable-Towns/select-towns.js" />
         <option value="$PROJECT_DIR$/JS Advanced/jQuery - Lab/05. Countries Table/initialize-table.js" />
-        <option value="$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Exam/02/filmStudio.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Exam/01/scripts/solution.js" />
         <option value="$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js" />
@@ -107,6 +104,22 @@
         <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js" />
         <option value="$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js" />
         <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/loadCanvas.js" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.html" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/attachEvents.js" />
+        <option value="$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Testing/VAT Calculator/solution.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Morse Translator/solution.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Auto Service/solution.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Matrix Summer/solution.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/01. Coffee-Bill/Resources/index.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.Tests.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/03. Organization/solution.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/index.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/scripts/app.js" />
       </list>
     </option>
   </component>
@@ -120,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,30 +143,32 @@
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="Asynchronous Programming - Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="REST and HTTP Requests - Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Freelance Offers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,47 +191,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
-    <configuration name="filmStudio.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam/02/filmStudio.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/scripts/app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="hotel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js" working-dir="$PROJECT_DIR$">
+    <configuration name="autoServiceClass.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js" working-dir="$PROJECT_DIR$">
+    <configuration name="solution.js (1)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Testing/VAT Calculator/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Film Studio.Look For Prod" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js</test-file>
-      <test-names>
-        <name value="Film Studio" />
-        <name value="Look For Prod" />
-      </test-names>
+    <configuration name="solution.js (2)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Morse Translator/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Film Studio.Look For Prod.incorrect string param" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js</test-file>
-      <test-names>
-        <name value="Film Studio" />
-        <name value="Look For Prod" />
-        <name value="incorrect string param" />
-      </test-names>
+    <configuration name="solution.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Matrix Summer/solution.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Testing/Auto Service/solution.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/Exam Testing/03. Organization/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Film Studio.constr" type="mocha-javascript-test-runner" nameIsGenerated="true">
@@ -236,6 +229,18 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="JS Advanced\Exam Testing\02. Auto Service\autoServiceClass.Tests.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.Tests.js</test-file>
+      <method v="2" />
+    </configuration>
     <configuration name="Test" type="mocha-javascript-test-runner">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -245,26 +250,29 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/JS Advanced/Exam/02</test-directory>
+      <test-directory>$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service</test-directory>
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Mocha.Test" />
       <item itemvalue="Mocha.Film Studio.constr" />
-      <item itemvalue="Mocha.Film Studio.Look For Prod" />
-      <item itemvalue="Mocha.Film Studio.Look For Prod.incorrect string param" />
-      <item itemvalue="Node.js.filmStudio.js" />
-      <item itemvalue="Node.js.hotel.js" />
+      <item itemvalue="Node.js.autoServiceClass.js" />
+      <item itemvalue="Node.js.solution.js (1)" />
+      <item itemvalue="Node.js.solution.js (2)" />
+      <item itemvalue="Node.js.solution.js (3)" />
+      <item itemvalue="Node.js.solution.js (4)" />
+      <item itemvalue="Mocha.JS Advanced\Exam Testing\02. Auto Service\autoServiceClass.Tests.js" />
       <item itemvalue="Node.js.solution.js" />
+      <item itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.solution.js" />
-        <item itemvalue="Node.js.hotel.js" />
-        <item itemvalue="Mocha.Film Studio.Look For Prod.incorrect string param" />
-        <item itemvalue="Node.js.filmStudio.js" />
-        <item itemvalue="Mocha.Film Studio.Look For Prod" />
+        <item itemvalue="Mocha.JS Advanced\Exam Testing\02. Auto Service\autoServiceClass.Tests.js" />
+        <item itemvalue="Node.js.solution.js (3)" />
+        <item itemvalue="Node.js.solution.js (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -305,54 +313,64 @@
       <workItem from="1553860116252" duration="11238000" />
       <workItem from="1553880955658" duration="4138000" />
       <workItem from="1554118363067" duration="9310000" />
+      <workItem from="1554151911405" duration="2379000" />
+      <workItem from="1554226906505" duration="1287000" />
+      <workItem from="1554228311173" duration="100000" />
+      <workItem from="1554228436097" duration="136000" />
+      <workItem from="1554237945776" duration="1601000" />
+      <workItem from="1554279290886" duration="16925000" />
+      <workItem from="1554325406386" duration="126000" />
+      <workItem from="1554409180037" duration="1886000" />
+      <workItem from="1554452776248" duration="23715000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Film_Studio - 2019.03.17 at 11h 38m 06s.xml">
-      <configuration name="Film Studio" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 47m 55s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod - 2019.03.17 at 11h 38m 22s.xml">
-      <configuration name="Film Studio.Look For Prod" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 48m 08s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod_without_param - 2019.03.17 at 11h 40m 15s.xml">
-      <configuration name="Film Studio.Look For Prod.without param" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 48m 55s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="JS_Advanced_Exam_02_filmStrudio_Test_js - 2019.03.17 at 11h 40m 36s.xml">
-      <configuration name="JS Advanced\Exam\02\filmStrudio.Test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 49m 35s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod_incorrect_param - 2019.03.17 at 11h 41m 55s.xml">
-      <configuration name="Film Studio.Look For Prod.incorrect param" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 50m 07s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod - 2019.03.17 at 11h 42m 13s.xml">
-      <configuration name="Film Studio.Look For Prod" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 50m 26s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod - 2019.03.17 at 11h 42m 54s.xml">
-      <configuration name="Film Studio.Look For Prod" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 51m 04s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod - 2019.03.17 at 11h 43m 17s.xml">
-      <configuration name="Film Studio.Look For Prod" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 53m 12s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod_incorrect_string_param - 2019.03.17 at 11h 44m 48s.xml">
-      <configuration name="Film Studio.Look For Prod.incorrect string param" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 12h 57m 27s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Look_For_Prod_incorrect_string_param - 2019.03.17 at 11h 44m 57s.xml">
-      <configuration name="Film Studio.Look For Prod.incorrect string param" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test - 2019.04.05 at 13h 01m 55s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204382000" />
+    <option name="totallyTimeSpent" value="252537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12161269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1850628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47984138" weight="0.44142857" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.70456046" weight="0.39093485" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47984138" visible="true" weight="0.33994335" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.70456046" weight="0.37393767" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -390,162 +408,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Exercise/01. Increment-Counter/incrementCounter.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/02. Search-In-List/list.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/02. Search-In-List/list.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Object Composition - Exercise/07. DOM Highlighter_HTML Skeleton.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="116" column="28" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/03. Link-Buttons/link-buttons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/04. Selectable-Towns/select-towns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/05. Countries Table/initialize-table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/01. Text-From-List/extract-text.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/jQuery - Lab/02. Search-In-List/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/02.EvenOrOdd.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Unit Testing - Exercise/04.MathEnforcer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/08.PaymentPackage.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/07.StringBuilder.Tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="87" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/03.Unity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/05.ExtensibleClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/01.DataClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Lab/03.GetPersons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="19" column="66" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/02.Tickets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/JS Classes - Exercise/04.LengthLimit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStudio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="102" column="96" selection-start-line="102" selection-start-column="96" selection-end-line="102" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/scripts/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/ajax-load.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/AJAX and jQuery AJAX - Lab/AJAX load/text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -555,13 +417,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/04/template.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/03. Messenger/messenger.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -577,13 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/01/scripts/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="145" selection-start-line="35" selection-start-column="145" selection-end-line="35" selection-end-column="145" />
         </state>
       </provider>
     </entry>
@@ -619,13 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="63" column="8" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -665,16 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357">
@@ -706,10 +537,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/imgs/sight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/imgs/target.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/imgs/west.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+        <state relative-caret-position="629">
+          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-end-line="40" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Fisher Game/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="34" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam/03. HTML Strict Mode/HTML strict mode.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/west.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Books REST Service/books.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Testing/VAT Calculator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/attachEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam/04. E-Vinetka-bg/Vinetks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam/02. Table Filter/Table Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Testing/Matrix Summer/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Testing/Morse Translator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/wildWildWest/loadCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="83" selection-start-line="61" selection-start-column="83" selection-end-line="61" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/01/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Testing/Auto Service/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="37" column="9" selection-end-line="91" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/01. Coffee-Bill/Resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="44" selection-start-line="44" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="98" selection-start-line="98" selection-end-line="98" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/02/filmStrudio.Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/02. Auto Service/autoServiceClass.Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="62" column="55" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/03. Organization/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="102" column="22" lean-forward="true" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam/03/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="137" column="42" lean-forward="true" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Exam Testing/04. Freelance Offers/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
