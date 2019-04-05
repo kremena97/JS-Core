@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Core Module</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body onload="attachEvents()">
+<h1>JS Core Module</h1>
+<div class="row">
+    <div class="col-md-8">
+        <h2>JS Essentials</h2>
+        <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#jsEssentials">Details</button>
+        <div id="jsEssentials" class="collapse">
+            <div class="col-ms-6">Lorem ipsum dolor text....</div>
+            <button type="button" class="btn btn-info" data-toggle="modal" data-target="#jsEssentialsModal">Apply</button>
+
+        </div>
+    </div>
+    <div class="col-md-8">
+        <h2>JS Advanced</h2>
+        <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#jsAdvanced">Details</button>
+        <div id="jsAdvanced" class="collapse">
+            <div class="col-ms-6">Lorem ipsum dolor text....</div>
+            <button type="button" class="btn btn-info" data-toggle="modal" data-target="#jsAdvancedModal">Apply</button>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <h2>JS Applications</h2>
+        <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#jsApplications">Details</button>
+        <div id="jsApplications" class="collapse">
+            <div class="col-ms-6">Lorem ipsum dolor text....</div>
+            <button type="button" class="btn btn-info" data-toggle="modal" data-target="#jsApplicationsModal">Apply</button>
+        </div>
+    </div>
+</div>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/firstSlide.jpg" alt="JS Essentials" style="width:100%;">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>JavaScript Essentials</h2>
+                <h4>Apply now at <a href="https://softuni.bg/">SoftUni</a></h4>
+            </div>
+        </div>
+
+        <div class="item">
+            <img src="img/secondSlide.jpg" alt="JS Advanced" style="width:100%;">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>JavaScript Advanced</h2>
+                <h4>Apply now at <a href="https://softuni.bg/">SoftUni</a></h4>
+            </div>
+        </div>
+
+        <div class="item">
+            <img src="img/thirdSlide.jpg" alt="JS Applications" style="width:100%;">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>JavaScript Applications</h2>
+                <h4>Apply now at <a href="https://softuni.bg/">SoftUni</a></h4>
+            </div>
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<script>
+    function attachEvents() {
+        $('[data-toggle="modal"]').each(function () {
+            $(this).on('click', function () {
+                let id = this.parentElement.getAttribute('id');
+                $(this).parent().append(`<div id="${id}Modal" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Apply for the ${'JS '+id.substr(2,id.length)} course</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Are you sure you want to apply for the ${'JS '+id.substr(2,id.length)} course?</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Yes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>`)});
+        })
+    }
+</script>
+</body>
+</html>
