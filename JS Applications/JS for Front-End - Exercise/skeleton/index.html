@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Application</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Dropify/0.2.2/css/dropify.min.css"
+          integrity="sha256-AWdeVMUYtwLH09F6ZHxNgvJI37p+te8hJuSMo44NVm0=" crossorigin="anonymous"/>
+
+
+</head>
+<body>
+<div id="container" class="justify-content-center">
+    <div class="mt-4 mb-4">
+        <h4 class="text-center text-white">JOB APPLICATION</h4>
+        <p class="text-center mb-5 font-italic text-uppercase text-white font-weight-bold">
+            We are looking for someone like you!
+        </p>
+    </div>
+    <div class="accordion mt-4 mb-4 ml-4 mr-4" id="accordionExample">
+        <div class="card cart-p-b">
+            <div class="card-header c-header" id="headingOne">
+                <h5 class="mb-0">
+                    <button class="btn btn-link text-white font-weight-bold" type="button" data-toggle="collapse"
+                            data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Enter your data
+                    </button>
+                </h5>
+            </div>
+
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="firstName">First Name</label>
+                            <input type="text" class="form-control" id="firstName" placeholder="First Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Last Name</label>
+                            <input type="text" class="form-control" id="lastName" placeholder="Last Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                   aria-describedby="emailHelp" placeholder="Enter email">
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+                                else.
+                            </small>
+                        </div>
+                        <div class="row mt-4">
+                            <button class="btn btn-facebook mr-2 ml-3 b-facebook">
+                                <a href="http://facebook.com" class="text-white hyperlink-notification">
+                                    <i class="fab fa-facebook"></i>
+                                    Sign up with Facebook
+                                </a>
+                            </button>
+                            <button class="btn btn-google b-google">
+                                <a href="http://google.com" class="text-white hyperlink-notification">
+                                    <i class="fab fa-google"></i>
+                                    Sign up with Google
+                                </a>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="card cart-p-b">
+            <div class="card-header c-header" id="headingTwo">
+                <h5 class="mb-0">
+                    <button class="btn btn-link collapsed text-white font-weight-bold" type="button"
+                            data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                            aria-controls="collapseTwo">
+                        Social Media Profiles
+                    </button>
+                </h5>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                    <form>
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text b-twitter"><i class="fab fa-twitter text-white fa-lg"></i></span>
+                            </div>
+                            <input type="text" class="form-control" id="twitter" placeholder="Twitter profile">
+                        </div>
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text b-facebook"><i
+                                        class="fab fa-facebook text-white fa-lg"></i></span>
+                            </div>
+                            <input type="text" class="form-control" id="facebook" placeholder="Facebook profile">
+                        </div>
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text b-github"><i
+                                        class="fab fa-github text-white fa-lg"></i></span>
+                            </div>
+                            <input type="text" class="form-control" id="github" placeholder="Github profile">
+                        </div>
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text b-linkedIn"><i
+                                        class="fab fa-linkedin text-white fa-lg"></i></span>
+                            </div>
+                            <input type="text" class="form-control" id="linkedIn" placeholder="LinkedIn profile">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="card cart-p-b">
+            <div class="card-header c-header" id="headingThree">
+                <h5 class="mb-0">
+                    <button class="btn btn-link collapsed text-white font-weight-bold" type="button"
+                            data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
+                            aria-controls="collapseThree">
+                        Upload CV
+                    </button>
+                </h5>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                    <input type="file" id="input-file-now" class="dropify"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center mb-4">
+        <button type="button" class="btn btn-submit text-white">SUBMIT</button>
+    </div>
+</div>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Dropify/0.2.2/js/dropify.js"
+        integrity="sha256-P5JJalvXVqr2UQErk/T/z6meVgxY7ofmixNKfZbkHrA=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/dropify@0.2.2/dist/js/dropify.min.js"
+        integrity="sha256-SUaao5Q7ifr2twwET0iyXVy0OVnuFJhGVi5E/dqEiLU=" crossorigin="anonymous"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

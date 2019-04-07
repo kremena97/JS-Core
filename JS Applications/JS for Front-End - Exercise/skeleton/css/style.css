@@ -1,0 +1,56 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+
+
+body {
+    background: url(img/hands-with-pencil-and-ruler.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container {
+    border-radius: 5px;
+    background-color: #40bfbf;
+    width: 700px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.c-header{
+    background-color: #40bfbf;
+}
+
+.cart-p-b{
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.b-facebook{
+    background-color: #3b5998;
+}
+
+.b-google{
+    background-color: #DB4437;
+}
+
+.b-twitter{
+    background-color: #1da1f2;
+}
+
+.b-github{
+    background-color: #333;
+}
+
+.b-linkedIn{
+    background-color: #0077b5;
+}
+
+.btn-submit{
+    background-color: #40bfbf;
+    border-color: #FFFFFF;
+}
