@@ -1,120 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/contactTemplate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/bin/handlebars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars.runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/ast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/code-gen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/printer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/visitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/decorators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/decorators/inline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/exception.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/each.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/if.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/lookup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/helpers/with.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/no-conflict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/safe-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/handlebars/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/amd/precompiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars.runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/ast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/code-gen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/printer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/visitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/decorators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/decorators/inline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/exception.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/each.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/if.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/lookup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/helpers/with.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/no-conflict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/safe-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/handlebars/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/cjs/precompiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.amd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.amd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.runtime.amd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.runtime.amd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/dist/handlebars.runtime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars.runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/ast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/code-gen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/javascript-compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/printer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/visitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/compiler/whitespace-control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/decorators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/decorators/inline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/exception.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/block-helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/each.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/helper-missing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/if.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/lookup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/helpers/with.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/no-conflict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/safe-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/handlebars/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/lib/precompiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/print-script" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/release-notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/renderContacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS Applications/JS for Front-End - Exercise/~$. JS-Applications-JS-for-Front-End-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="13893b56-044d-4296-8b49-e06b1e864bf5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -137,13 +24,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/renderContacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -299,16 +191,13 @@
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="Templating - Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="Contacts Book" type="462c0819:PsiDirectoryNode" />
-              <item name="handlebars" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core" type="462c0819:PsiDirectoryNode" />
               <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="sweetalert" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -478,7 +367,7 @@
       <workItem from="1554452776248" duration="30822000" />
       <workItem from="1554489611403" duration="12433000" />
       <workItem from="1554584462424" duration="7316000" />
-      <workItem from="1554641696060" duration="17941000" />
+      <workItem from="1554641696060" duration="18608000" />
     </task>
     <servers />
   </component>
@@ -515,7 +404,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297334000" />
+    <option name="totallyTimeSpent" value="298001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -565,13 +454,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS Applications/Asynchronous Programming - Exercise/Forecaster/forecaster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/REST and HTTP Requests - Exercise/04. Phonebook/phonebook.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -809,10 +691,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/renderContacts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/Templating - Lab/Contacts Book/handlebars/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
