@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coffee Bill</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<h2>Coffee Bill</h2>
+<table id="bill">
+    <thead>
+    <tr>
+        <th>Product</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody id="product-list"></tbody>
+    <tfoot>
+    <tr>
+        <td>Total:</td>
+        <td>0.00</td>
+    </tr>
+    </tfoot>
+</table>
+<section id="add-product">
+    <h3>Add new product</h3>
+    <label>
+        <span>
+            Product:
+        </span>
+        <input type="text">
+    </label>
+    <label>
+        <span>
+            Price:
+        </span>
+        <input type="number">
+    </label>
+    <button onclick="addProduct()">Add</button>
+</section>
+
+<script>
+    function addProduct() {
+        let containerProducts = $('#product-list');
+        let containerTotalPrice = $('#bill tfoot tr td').eq(1);
+
+        let totalPrice = Number(containerTotalPrice.text());
+        let productName = $('#add-product input').eq(0).val();
+        let productPrice = $('#add-product input').eq(1).val();
+
+        if (productName === '' || productPrice === '') {
+            return;
+        }
+
+        let row = $('<tr>');
+        let dataName = $('<td>').text(productName);
+        let dataPrice = $('<td>').text(Number(productPrice));
+
+        row.append(dataName).append(dataPrice);
+        containerProducts.append(row);
+        containerTotalPrice.text(totalPrice + Number(productPrice));
+
+        $('#add-product input').eq(0).val('');
+        $('#add-product input').eq(1).val('');
+    }
+</script>
+
+</body>
+</html>
